@@ -7,11 +7,13 @@ can be derived from a given context free grammar or not. And if that string was 
 was necessary to show derivation steps and parse tree as a proof.
 
 =>Read CFG.txt file
+
 =>Convert CFG to CNF:
   ->Eliminate empty strings
   ->Eliminate units
   ->Isolate terminals
   ->Isolate Multiple Productions
+	
 =>Print new Chomsky Normal Form (CNF) to a new text file
 =>Read CNF.txt (take Chomsky Normal Form)
 =>Take string input to check from user
