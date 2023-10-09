@@ -1,0 +1,13 @@
+E
+a + * ( )
+E T F A B C D G H I
+E GT HF ID a
+T HF ID a
+F ID a
+A +
+B *
+C (
+D )
+G EA
+H TB
+I CE
